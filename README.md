@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&color=6EC9FF&lines=Aspiring+Data+Scientist;Data+Analyst;Python+%7C+Machine+Learning+%7C+Data+Visualization;Turning+Data+into+Insights" alt="Typing SVG" />
 </p>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Shreyasi-0107&style=for-the-badge&label=Profile%20Views&color=8A2BE2&logo=github" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Shreyasi-0107?style=for-the-badge&logo=github&label=Followers&color=0d8abc" alt="GitHub Followers" />
@@ -19,18 +18,9 @@ Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passi
 📊 I enjoy analyzing datasets, building visualizations, and discovering hidden patterns.  
 🧠 Interested in **Machine Learning, Data Analytics, and Business Intelligence**.  
 🚀 Always learning new technologies and improving my **analytical and problem-solving skills**.
-
----
-
 🔭 I’m currently working on [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=github&logoColor=white)](https://github.com/Shreyasi-0107)
-
----
-
 ![](https://img.shields.io/badge/🌱%20Currently%20Learning-%234ea94b?style=for-the-badge)
 ![](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white)
-
----
-
 ## 🌐 Let's connect on: 
 
 <p align="left">
