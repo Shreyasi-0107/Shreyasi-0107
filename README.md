@@ -61,8 +61,6 @@ Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passi
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🐍 Contribution Snake
-
 </div><br>
 <!-- Snake Game Repo View -->
 
