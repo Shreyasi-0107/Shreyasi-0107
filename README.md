@@ -1,16 +1,107 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shreyasi Saha</h1>
 
-<!--
-**Shreyasi-0107/Shreyasi-0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=480&color=6EC9FF&lines=Aspiring+Data+Scientist;Data+Analyst;Python+%7C+Machine+Learning+%7C+Data+Visualization;Turning+Data+into+Insights" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Shreyasi-0107&style=for-the-badge&label=Profile%20Views&color=8A2BE2&logo=github" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Shreyasi-0107?style=for-the-badge&logo=github&label=Followers&color=0d8abc" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Shreyasi-0107?style=for-the-badge&logo=github&label=Stars&color=FFA500" alt="GitHub Stars" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+
+Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passionate about transforming raw data into meaningful insights.  
+
+📊 I enjoy analyzing datasets, building visualizations, and discovering hidden patterns.  
+🧠 Interested in **Machine Learning, Data Analytics, and Business Intelligence**.  
+🚀 Always learning new technologies and improving my **analytical and problem-solving skills**.
+
+---
+
+🔭 I’m currently working on  
+[![Rapido Ride Analytics](https://img.shields.io/badge/Rapido-Ride--Analytics-orange?style=flat&logo=github&logoColor=white)](https://github.com/Shreyasi-0107)
+
+---
+
+![](https://img.shields.io/badge/🌱%20Currently%20Learning-%234ea94b?style=for-the-badge)
+![](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://instagram.com/_me_s.s_">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shreyasi0107">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://pinterest.com/shreyasi17saha">
+<img src="https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
+
+<a href="mailto:shreyasisaha0107@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreyasi-0107/Shreyasi-0107/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreyasi-0107/Shreyasi-0107/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shreyasi-0107/Shreyasi-0107/output/github-snake.svg" />
+</picture>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Shreyasi-0107&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Shreyasi-0107&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasi-0107&theme=dark&hide_border=false&layout=compact)
+
+---
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Shreyasi-0107&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Shreyasi-0107&icon=0&color=0)](https://visitcount.itsvg.in)
+
+⭐ *Turning data into insights that drive decisions.*
