@@ -31,24 +31,21 @@ Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passi
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's connect on: 
 
 <p align="left">
+<a href="[www.linkedin.com/in/shreyasi0104](https://www.linkedin.com/in/shreyasi0104/)">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:shreyasisaha0107@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://instagram.com/_me_s.s_">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-<a href="[www.linkedin.com/in/shreyasi0104](https://www.linkedin.com/in/shreyasi0104/)">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://pinterest.com/shreyasi17saha">
 <img src="https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
-</a>
-
-<a href="mailto:shreyasisaha0107@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -77,13 +74,12 @@ Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passi
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shreyasi-0107/Shreyasi-0107/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shreyasi-0107/Shreyasi-0107/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Shreyasi-0107/Shreyasi-0107/output/github-snake.svg" />
-</picture>
+</div><br>
+<!-- Snake Game Repo View -->
 
----
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 📊 GitHub Stats
 
