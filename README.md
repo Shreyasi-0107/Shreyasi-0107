@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyasi Saha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&width=500&color=6EC9FF&lines=Aspiring+Data+Scientist;Data+Analyst;Python+%7C+Machine+Learning+%7C+Data+Visualization;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&width=500&color=6EC9FF&lines=Aspiring+Data+Scientist;Data+Analyst;Machine+Learning+%7C+Data+Visualization;Turning+Data+into+Insights" alt="Typing SVG" />
 </p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Shreyasi-0107&style=for-the-badge&label=Profile%20Views&color=8A2BE2&logo=github" alt="Profile Views" />
