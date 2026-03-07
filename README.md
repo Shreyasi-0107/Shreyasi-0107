@@ -22,8 +22,7 @@ Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passi
 
 ---
 
-🔭 I’m currently working on  
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=github&logoColor=white)](https://github.com/Shreyasi-0107)
+🔭 I’m currently working on [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=github&logoColor=white)](https://github.com/Shreyasi-0107)
 
 ---
 
