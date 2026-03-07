@@ -9,20 +9,23 @@
   <img src="https://img.shields.io/github/stars/Shreyasi-0107?style=for-the-badge&logo=github&label=Stars&color=FFA500" alt="GitHub Stars" />
 </p>
 
----
-
 ## 💫 About Me
 
 Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passionate about transforming raw data into meaningful insights.  
 
-📊 I enjoy analyzing datasets, building visualizations, and discovering hidden patterns.  
-🧠 Interested in **Machine Learning, Data Analytics, and Business Intelligence**.  
-🚀 Always learning new technologies and improving my **analytical and problem-solving skills**.
-🔭 I’m currently working on [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=github&logoColor=white)](https://github.com/Shreyasi-0107)
-![](https://img.shields.io/badge/🌱%20Currently%20Learning-%234ea94b?style=for-the-badge)
-![](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white)
-## 🌐 Let's connect on: 
+📊 I enjoy analyzing datasets, building visualizations, and discovering hidden patterns. 
 
+🧠 Interested in **Machine Learning, Data Analytics, and Business Intelligence**.  
+
+🚀 Always learning new technologies and improving my **analytical and problem-solving skills**.
+
+🔭 I’m currently working on [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=github&logoColor=white)](https://github.com/Shreyasi-0107)
+
+
+![](https://img.shields.io/badge/🌱%20Currently%20Learning-%234ea94b?style=for-the-badge) 
+![](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white)
+
+## 🌐 Let's connect on: 
 <p align="left">
 <a href="[www.linkedin.com/in/shreyasi0104](https://www.linkedin.com/in/shreyasi0104/)">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -40,8 +43,6 @@ Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passi
 
 </p>
 
----
-
 ## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -53,14 +54,12 @@ Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passi
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
 
 ## 🐍 Contribution Snake
 
@@ -79,14 +78,10 @@ Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passi
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasi-0107&theme=dark&hide_border=false&layout=compact)
 
----
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Shreyasi-0107&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
 [![](https://visitcount.itsvg.in/api?id=Shreyasi-0107&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ *Turning data into insights that drive decisions.*
+
