@@ -27,21 +27,29 @@ Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passi
 
 ## 🌐 Let's connect on: 
 <p align="left">
-<a href="[www.linkedin.com/in/shreyasi0104](https://www.linkedin.com/in/shreyasi0104/)">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/shreyasi0104/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:shreyasisaha0107@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/_me_s.s_">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
+
+<a href="https://www.reddit.com/user/_me_ss_/">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/>
+</a>
+
 <a href="https://pinterest.com/shreyasi17saha">
-<img src="https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white"/>
 </a>
 
 </p>
+
 
 ## 💻 Tech Stack
 
