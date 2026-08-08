@@ -19,7 +19,8 @@ Hi, I'm **Shreyasi Saha**, an aspiring **Data Scientist and Data Analyst** passi
 
 🚀 Always learning new technologies and improving my **analytical and problem-solving skills**.
 
-🔭 I’m currently working on [![Ecommerce Customer Churn Prediction](https://img.shields.io/badge/ecommerce-customer-churn-prediction-orange?style=flat\&logo=github\&logoColor=white)](https://github.com/Shreyasi-0107/ecommerce-customer-churn-prediction)
+🔭 I’m currently working on 
+[![Ecommerce Customer Churn Prediction](https://img.shields.io/badge/Ecommerce%20Customer%20Churn%20Prediction-orange?style=flat&logo=github&logoColor=white)](https://github.com/Shreyasi-0107/ecommerce-customer-churn-prediction)
 
 
 
